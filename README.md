@@ -2,7 +2,7 @@
 
 ## Hi stranger 👋
 
-#⚡ Interest: painting
+⚡ Interest: painting
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pastell-star&theme=default)
 
