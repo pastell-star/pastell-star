@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=220&section=header&text=Hi%20stranger👋%20I'm%20pastell-star%20😊&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=fadeIn)
 
 ## Hi stranger 👋
+
 #⚡ Interest: painting
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pastell-star&theme=default)
 
 ![footer](https://capsule-render.vercel.app/api?type=shark&color=auto&height=118&section=footer&animation=fadeIn)
