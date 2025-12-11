@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=220&section=header&text=Hi%20stranger👋%15I'm%20pastell-star%15😊😊😊&fontColor=d6ace6&fontSize=30&&fontAlignY=38&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=220&section=header&text=Hi%20stranger👋%20I'm%20pastell-star%20😊😊😊&fontColor=d6ace6&fontSize=30&&fontAlignY=38&animation=fadeIn)
 
 ## Hi stranger 👋
 
