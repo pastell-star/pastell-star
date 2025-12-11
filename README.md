@@ -10,7 +10,7 @@
 
 🤔 If you see my work - https://www.instagram.com/justanothergo0dday?igsh=NG5ibjUzYTN5cm5j&utm_source=qr  
 
-🌱 My email: acaums123@gmail.com <a href="acaums123@gmail.com">Google</a>
+🌱 My email: acaums123@gmail.com
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pastell-star&theme=default)
 
