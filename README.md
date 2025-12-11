@@ -2,7 +2,15 @@
 
 ## Hi stranger 👋
 
+나의 라이선스 : None
+
+현재 참여중인 프로젝트 : 이스트 부스트캠프 프론트엔드 11기 개발 과정에 참여 중
+
+
+
 ⚡ Interest: painting and drawin
+
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pastell-star&theme=default)
 
