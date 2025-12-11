@@ -10,7 +10,7 @@
 
 ⚡ Interest: painting and drawin
 
-
+🤔 If you see my work -> my instagram <img src="C:\Users\acaum\Downloads\pngwing.com.png" alt=""></img>   
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pastell-star&theme=default)
 
